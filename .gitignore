@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# React
+node_modules/
+frontend/node_modules/
+dist/
+
+# YOLO
+runs/
+datasets/
+
+# Models
+*.pt
+
+# Database
+*.db
+
+# Generated Outputs
+output/
+
+# VS Code
+.vscode/
+.idea/

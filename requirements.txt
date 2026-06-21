@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+easyocr
+streamlit
+fastapi
+uvicorn
+pillow
+scikit-learn
+torch
+torchvision
